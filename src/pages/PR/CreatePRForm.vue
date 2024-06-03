@@ -24,8 +24,8 @@
     </v-card>
   </v-form>
   <div class="innerButtonDiv">
-    <v-btn>Save as Draft</v-btn>
-    <v-btn>Next</v-btn>
+      <v-btn>Save as Draft</v-btn>
+      <v-btn>Next</v-btn>
   </div>
 </template>
 <script>
@@ -74,7 +74,6 @@ export default {
 </script>
 <style>
 .innerButtonDiv {
-  position: absolute;
   bottom: 0;
   right: 0;
   display: flex;
